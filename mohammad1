@@ -189,4 +189,4 @@ $request celestia1a35035fu83jkeeqz00d3jmt3k5wu5x3lyvn6qp
 ------------------------------------- 
 با کد زیر هم میتونید موجودی ولت خودتون رو ببنید  که به جای ایکس ها ادرس خودتون رو وارد کنید 
 
-celestia-appd q bank balances 0x38fB98c9Be5D409fa75189744E7920FE0EE92EG5
+celestia-appd q bank balances xxxxxxxxxxxxx
